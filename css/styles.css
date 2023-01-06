@@ -11428,6 +11428,7 @@ html {
 }
 .callout h2, .callout .h2 {
   font-size: 3.5rem;
+  color: white;
   font-weight: 700;
   display: block;
   max-width: 30rem;
